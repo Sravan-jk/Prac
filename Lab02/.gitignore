@@ -3,6 +3,5 @@
 *.terraform.*
 *.tfstate
 *.tfstate.*
-*.tfvars
 *.conf
-*.*.tfvars
+
