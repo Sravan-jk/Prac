@@ -1,2 +1,2 @@
-rgname = "#{rg_name}#"
-rgloc = "#{rg_loc}#"
+rgname = "#{resourcegroupname}#"
+rgloc = "#{resourcegrouplocation}#"
